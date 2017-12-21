@@ -14,7 +14,7 @@ title: 'Animation Anteaters'
 slogan: 'A 2D Animation Production Club at UCI'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Animation Anteaters aims to .'
+description: 'This is the site of Animation Anteaters at UCI. Animation Anteaters is where the animators of UCI unite.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Animation Anteaters &copy 2017; Theme by <a href="http://phlow.de/">Phlow</a>.</p>'
@@ -25,8 +25,8 @@ author: Lillian
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io'
-baseurl: '/feeling-responsive'
+url: 'https://lillworkspace.github.io'
+baseurl: '/AnimationAnteaters'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -111,7 +111,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: Lillian     # Default author for pages
   -
     scope:
       path: ''
@@ -120,7 +120,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: Lillian     # Default author for posts
 
 
 
@@ -192,8 +192,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: phlow
-    facebook: phlow.media
+    youtube: /channel/UCnDqviGBhDZYBvSUBpYWDgw
+    facebook: /groups/141012042748209/
 
 
 #        ____  _
