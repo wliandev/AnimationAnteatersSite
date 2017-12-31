@@ -6,22 +6,22 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: 33bYCcX.jpg
 widget1:
   title: "Welcome"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
+  url: /about/
+  image: cZrdswF.jpg?1
   text: 'Animation Anteaters is a place and time to learn and collaborate on animation. Animators of all levels are welcome.'
 widget2:
-  title: "Winter Schedule"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
+  title: "Fall Schedule"
+  url: /schedule/
+  image: wKNF8bu.png?3
   text: '<b>This week: Walk Cycles</b> <br/> Weekly meetings are Monday 7-9pm at DBH 1422. Weekly drawing sessions are usually Friday 3-5pm at CSL9.'
 widget3:
   title: "Our Recent Work"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: /gallery/
   text: 'Watch our demo reel or browse our gallery.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="https://i.imgur.com/S9LoxLV.jpg" width="302" height="182" alt=""/></a>'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
+  url: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PWCG9BKYRXGZN&lc=US&item_name=Animation%20Anteaters&item_number=AniAnt%20Club%20Fund&currency_code=USD&bn=PP%2dDonationsBF%3adonate%2520button_zpsxvnh45hr%2epng%2ehtml%3aNonHosted
   text: Consider supporting us by donating >
   style: secondary
 permalink: /index.html

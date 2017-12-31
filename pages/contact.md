@@ -1,12 +1,15 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+meta_title: "Contact Animation Anteaters"
+subheadline: "Questions or Suggestions?"
+teaser: "Email: anteatersinanimation(at)gmail(dot)com"
+header:
+   image_fullwidth: 33bYCcX.jpg
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+We are also active on [Facebook][1] and [Discord][2], which we update with announcements and drawing session locations. And please, no need to be shy! Come visit us in person during any regularly scheduled club meeting.
 
 
- [1]: http://www.wufoo.com/
+ [1]: http://www.facebook.com/groups/141012042748209/
+ [2]: https://discordapp.com/
