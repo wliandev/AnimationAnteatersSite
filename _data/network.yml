@@ -1,21 +1,17 @@
 - menu_name: "Around the web"
 
-- name: "Icons by Daniel Bruce"
-  url: "http://entypo.com/"
-  class: "network-entypo"
-  title: "Icons by Daniel Bruce"
+- name: "UC Irvine"
+  url: "https://uci.edu/"
+  class: 
+  title: "UC Irvine"
 
-- name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
-  class: "services-newsletter"
-  title: "Built on Foundation"
+- name: "UCI Campus Organizations"
+  url: "https://www.campusorgs.uci.edu/"
+  class: 
+  title: "UCI Campus Organizations"
 
-- name: "Images by Unsplash"
-  url: "http://unsplash.com/"
-  class: "rss-link"
-  title: "Images by Unsplash"
+- name: "Feeling Responsive made by Phlow"
+  url: "https://phlow.github.io/"
+  class: 
+  title: Feeling Responsive made by Phlow
 
-- name: "Using Backstretch by Scott Robbin"
-  url: "http://srobbin.com/jquery-plugins/backstretch/"
-  class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"
