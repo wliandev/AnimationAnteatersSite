@@ -26,15 +26,4 @@ provide constructive criticism, and learn from one another
 
 ## Meet the Leaders
 
-# Amie
-* Role: President
-
-# Amanda
-* Role: ???
-
-# Shirley
-* Role: ???
-
-# Lillian
-* Role: Webmaster
-* Tools of trade: Photoshop CS6, Blender
+* Under construction
