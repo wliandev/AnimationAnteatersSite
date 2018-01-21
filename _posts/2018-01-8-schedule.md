@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Schedule
-title:  "Fall Schedule"
+title:  "Winter Schedule"
 teaser: "Here are the weekly topics for this quarter."
 categories:
     - frontpage
