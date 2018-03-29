@@ -1,10 +1,10 @@
 $(document).ready(function(){
 	$("#logo-img").hover(
 	    function(){
-	        $(this).attr("src", "https://i.imgur.com/nntM6ka.png");
+	        $(this).attr("src", "https://i.imgur.com/ZjaCGqU.png");
 	    },
 	    function(){
-	        $(this).attr("src", "https://i.imgur.com/kgjCr6d.png");
+	        $(this).attr("src", "https://i.imgur.com/w7TNLVX.png");
 	    }                         
 	);
 });

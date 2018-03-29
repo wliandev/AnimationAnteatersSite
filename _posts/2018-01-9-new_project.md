@@ -20,6 +20,7 @@ Interested? We are working on:
 * Storyboarding
 * Character/Background art
 * Keyframing
+
 and we could use your help!
 
 Contact the club to discuss what you want to contribute and for the list of scenes you can sign up for! See the quarter schedule for our projected progress [here][1]. 

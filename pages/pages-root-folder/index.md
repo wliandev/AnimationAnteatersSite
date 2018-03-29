@@ -6,17 +6,17 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: 33bYCcX.jpg
+  image_fullwidth: gQpeWTK.png
 widget1:
   title: "Welcome"
   url: /about/
   image: cZrdswF.jpg?1
   text: 'Animation Anteaters is a place and time to learn and collaborate on animation. Animators of all levels are welcome.'
 widget2:
-  title: "Winter Schedule"
+  title: "Spring Schedule"
   url: /schedule/
   image: wKNF8bu.png?3
-  text: '<b> Weekly meetings are Monday 7-9pm at DBH 1422 </b> <br> Weekly drawing sessions are on Friday 11am-1pm at one of the CSL rooms.'
+  text: '<b> [Coming Soon] </b> <br> See you at the start of Spring Quarter!'
 widget3:
   title: "Our Recent Work"
   url: /gallery/
