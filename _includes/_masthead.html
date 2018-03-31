@@ -1,6 +1,7 @@
 {% if page.header == NULL and page.header.image_fullwidth == NULL and page.header.pattern == NULL and page.header.background-color == NULL and page.header.title == NULL %}
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="{{site.baseurl}}/assets/js/animated-logo.js"></script>
+<script src="{{ site.url}}{{site.baseurl}}/assets/js/animated-logo.js"></script>
 
 <div id="masthead-no-image-header">
 	<div class="row">
@@ -50,7 +51,7 @@
 
 {% elsif page.header.image_fullwidth %}
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="{{site.baseurl}}/assets/js/animated-logo.js"></script>
+<script src="{{ site.url}}{{site.baseurl}}/assets/js/animated-logo.js"></script>
 
 
 <div id="masthead">
