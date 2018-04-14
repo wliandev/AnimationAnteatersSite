@@ -16,7 +16,7 @@ widget2:
   title: "Spring Schedule"
   url: /schedule/
   image: wKNF8bu.png?3
-  text: '<b> [Coming Soon] </b> <br> See you at the start of Spring Quarter!'
+  text: '<b> Weekly meetings are on Monday 7-9pm at DBH 1422 </b> <br> Drawing sessions are on Wednesdays 3-5pm'
 widget3:
   title: "Our Recent Work"
   url: /gallery/
