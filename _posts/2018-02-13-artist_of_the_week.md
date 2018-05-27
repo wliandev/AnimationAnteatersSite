@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: Project
+subheadline: Announcement
 title:  "Sign up for Artist of the Week!"
 teaser: "Have knowledge to share? Present a lecture or tutorial at a weekly meeting!"
 categories:

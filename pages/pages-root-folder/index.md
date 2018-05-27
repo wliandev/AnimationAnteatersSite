@@ -20,8 +20,12 @@ widget2:
 widget3:
   title: "Our Recent Work"
   url: /gallery/
-  text: 'Watch our demo reel or browse our gallery.'
+  text: 'Our most recent project, Making Friends, will be premiering at Zotfest 2018! Watch the <a href="/gallery/2017-2018/">preview</a> or browse our gallery.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://i.imgur.com/S9LoxLV.jpg" width="302" height="182" alt=""/></a>'
+
+#  text: 'Watch our demo reel or browse our gallery.'
+#  video: '<a href="#" data-reveal-id="videoModal"><img src="https://i.imgur.com/S9LoxLV.jpg" width="302" height="182" alt=""/></a>'
+
 #
 # Use the call for action to show a button on the frontpage
 #
