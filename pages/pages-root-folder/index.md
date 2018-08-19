@@ -20,13 +20,8 @@ widget2:
 widget3:
   title: "Our Recent Work"
   url: /gallery/
-<<<<<<< HEAD
   text: 'Our most recent project, Making Friends, won Honorable Mention at Zotfest 2018! You can also view our gallery <a href="/gallery/">here.</a>'
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://i.imgur.com/mHh9JRr.png" width="302" height="182" alt=""/></a>'
-=======
-  text: 'Our most recent project, Making Friends, will be premiering at Zotfest 2018! Watch the <a href="/gallery/2017-2018/">preview</a> or browse our gallery.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="https://i.imgur.com/S9LoxLV.jpg" width="302" height="182" alt=""/></a>'
->>>>>>> eb2a3d51c3b83d14611d6a97be8633fab4ec55f0
 
 #  text: 'Watch our demo reel or browse our gallery.'
 #  video: '<a href="#" data-reveal-id="videoModal"><img src="https://i.imgur.com/S9LoxLV.jpg" width="302" height="182" alt=""/></a>'
