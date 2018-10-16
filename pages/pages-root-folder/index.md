@@ -13,10 +13,10 @@ widget1:
   image: cZrdswF.jpg?1
   text: 'Animation Anteaters is a place and time to learn and collaborate on animation. Animators of all levels are welcome.'
 widget2:
-  title: "Summer Break"
+  title: "Fall Quarter"
   url: /schedule/
   image: wKNF8bu.png?3
-  text: '<b> See you in September! </b> <br> Zombie Dad production is continuing during the summer.'
+  text: '<b> Weekly meetings are on Mondays 6-8pm at DBH 1423! </b> <br> Drawing sessions are on Mondays 3-6pm at CSL, right before meetings.'
 widget3:
   title: "Our Recent Work"
   url: /gallery/
