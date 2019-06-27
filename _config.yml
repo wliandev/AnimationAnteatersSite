@@ -45,7 +45,7 @@ urlimg: 'https://i.imgur.com/'
 logo: w7TNLVX.png
 
 # Gems
-gems:
+plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
