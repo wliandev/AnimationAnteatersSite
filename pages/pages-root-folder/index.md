@@ -13,10 +13,10 @@ widget1:
   image: cZrdswF.jpg?1
   text: 'Animation Anteaters is a place and time to learn and collaborate on animation. Animators of all levels are welcome.'
 widget2:
-  title: "Spring Quarter"
+  title: "Summer Break"
   url: /schedule/
   image: wKNF8bu.png?3
-  text: '<b> Weekly meetings are on Mondays 6-8pm at DBH 1423! </b> <br> Drawing sessions are on Tuesdays and Fridays 3-5pm at various locations.'
+  text: '<b> Thank you for the great year! </b> <br> You can keep in touch on our Discord. We will return in Fall Quarter.'
 widget3:
   title: "Our Recent Work"
   url: /gallery/
@@ -40,7 +40,7 @@ widget3:
 callforaction:
   url: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PWCG9BKYRXGZN&lc=US&item_name=Animation%20Anteaters&item_number=AniAnt%20Club%20Fund&currency_code=USD&bn=PP%2dDonationsBF%3adonate%2520button_zpsxvnh45hr%2epng%2ehtml%3aNonHosted
   text: Consider supporting us by donating >
-  style: secondary
+  style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
