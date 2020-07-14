@@ -9,7 +9,7 @@ header:
   image_fullwidth: OBjxHmN.png
 
 ---
-Animation Anteaters is designed to teach artists of all levels the principles of animation. The goal of this club is to produce animated shorts and experience a production pipeline. If you are interested in storyboarding, character design, visual development and layout, or animation in general, consider joining us!
+Animation Anteaters is designed to teach artists of all levels the principles of animation. The goal of this club is to produce animated shorts and experience a production pipeline. If you are interested in storyboarding, character design, visual development and layout, or animation in general, consider joining us! There is no club fee.
 
 ## What We Do
 
@@ -24,5 +24,3 @@ Animation Anteaters is designed to teach artists of all levels the principles of
 * To develop fundamental skills of drawing
 * To learn the principles of animation
 * To create a community based around education and collaboration
-
-We welcome artists of all levels and backgrounds, and there is no club fee!
