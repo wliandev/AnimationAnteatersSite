@@ -12,8 +12,7 @@ widget2:
   title: Summer Quarter
   url: "/schedule/"
   image: wKNF8bu.png?3
-  text: "<b> Have a nice summer break!</b> <br> UCI Fall 2020 will be hosted online,
-    but we hope to see you soon!"
+  text: "<b> Hope to see you soon!</b> <br> UCI Fall 2020 will be hosted online."
 widget3:
   title: Our Recent Work
   url: "/gallery/"
