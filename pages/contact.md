@@ -9,4 +9,4 @@ header:
 permalink: "/contact/"
 
 ---
-We are currently most active on [Discord](https://discordapp.com/) (contact us for an invite) and [Facebook](http://www.facebook.com/groups/141012042748209/). And please, no need to be shy! We welcome artists of all skill levels and backgrounds, and there is no club fee.
+We are currently most active on [Discord](https://discordapp.com/) (contact us for an invite) and [Facebook](http://www.facebook.com/groups/141012042748209/). And please, no need to be shy! We welcome artists of all levels and backgrounds, and there is no club fee.
