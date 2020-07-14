@@ -1,0 +1,45 @@
+---
+label: gallery_template
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: subheadline
+  label: subheadline
+- type: text
+  name: title
+  label: title
+- type: text
+  name: teaser
+  label: teaser
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: field_group_list
+  name: gallery
+  label: gallery
+  fields:
+  - type: file
+    name: image_url
+    label: image_url
+  - type: text
+    name: caption
+    label: caption
+- type: field_group
+  name: image
+  label: image
+  fields:
+  - type: text
+    name: thumb
+    label: thumb
+- type: text
+  name: meta_description
+  label: meta_description
+- type: text
+  name: permalink
+  label: permalink
