@@ -1,0 +1,41 @@
+---
+label: Announcement
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: subheadline
+  label: subheadline
+- type: text
+  name: title
+  label: title
+- type: text
+  name: teaser
+  label: teaser
+- type: list
+  name: categories
+  label: categories
+- type: boolean
+  name: header
+  label: header
+- type: field_group
+  name: image
+  label: image
+  fields:
+  - type: file
+    name: title
+    label: title
+  - type: file
+    name: thumb
+    label: thumb
+  - type: file
+    name: homepage
+    label: homepage
+  - type: text
+    name: caption
+    label: caption
+- type: boolean
+  name: show_meta
+  label: show_meta
