@@ -1,0 +1,51 @@
+---
+label: Yearly_gallery_w_video_and_images
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: boolean
+  name: show_meta
+  label: show_meta
+- type: text
+  name: subheadline
+  label: subheadline
+- type: text
+  name: title
+  label: title
+- type: text
+  name: teaser
+  label: teaser
+- type: list
+  name: categories
+  label: categories
+- type: textarea
+  name: iframe
+  label: iframe
+- type: field_group
+  name: video
+  label: video
+  fields:
+  - type: text
+    name: embedURL
+    label: embedURL
+  - type: text
+    name: contentURL
+    label: contentURL
+  - type: file
+    name: thumbnailUrl
+    label: thumbnailUrl
+- type: field_group_list
+  name: "<!-- gallery"
+  label: "<!-- gallery"
+  fields:
+  - type: file
+    name: image_url
+    label: image_url
+  - type: text
+    name: caption
+    label: caption
+- type: text
+  name: permalink
+  label: permalink
