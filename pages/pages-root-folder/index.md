@@ -13,18 +13,18 @@ widget1:
   image: cZrdswF.jpg?1
   text: 'Animation Anteaters is a place and time to learn and collaborate on animation. Animators of all levels are welcome.'
 widget2:
-  title: "Winter Quarter"
+  title: "Winter Break"
   url: /schedule/
   image: wKNF8bu.png?3
-  text: '<b> General meetings are Mondays 6 - 8 pm at DBH 1422!</b> <br> Drawing session times will be announced on Discord or by email.'
+  text: '<b> See you in Winter Quarter!</b> <br> We will resume virtual club activities soon. Check back in January for more information!'
 widget3:
   title: "Our Recent Work"
   url: /gallery/
-  text: 'Our most recent project, Making Friends, won Honorable Mention at Zotfest 2018! You can also view our gallery <a href="/gallery/">here.</a>'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="https://i.imgur.com/mHh9JRr.png" width="302" height="182" alt=""/></a>'
+  text: 'Check out our most recent project, Shapism, on YouTube! You can find more information in our gallery <a href="/gallery/">here.</a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="https://i.imgur.com/bEs0kyz.png" width="302" height="182" alt=""/></a>'
 
 #  text: 'Watch our demo reel or browse our gallery.'
-#  video: '<a href="#" data-reveal-id="videoModal"><img src="https://i.imgur.com/S9LoxLV.jpg" width="302" height="182" alt=""/></a>'
+#  video: '<a href="#" data-reveal-id="videoModal"><img src="https://i.imgur.com/bEs0kyz.jpg" width="302" height="182" alt=""/></a>'
 
 #
 # Use the call for action to show a button on the frontpage
@@ -51,7 +51,9 @@ homepage: true
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/pyLcI3ti4Sw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/4Dk0pVki5aU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+
+
