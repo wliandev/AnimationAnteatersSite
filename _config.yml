@@ -17,7 +17,7 @@ slogan: 'A 2D Animation Production Club at UCI'
 description: 'This is the site of Animation Anteaters at UCI. Animation Anteaters is where the animators of UCI unite.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Animation Anteaters &copy 2017; Theme by <a href="http://phlow.de/">Phlow</a>.</p>'
+credits: '<p>Animation Anteaters &copy 2021; Theme by <a href="http://phlow.de/">Phlow</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -25,7 +25,7 @@ author: Lillian
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://lillworkspace.github.io'
+url: 'https://wliandev.github.io'
 baseurl: '/AnimationAnteatersSite'
 
 # This is for the editing function in _/includes/improve_content

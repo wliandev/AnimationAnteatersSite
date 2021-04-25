@@ -13,10 +13,10 @@ widget1:
   image: cZrdswF.jpg?1
   text: 'Animation Anteaters is a place and time to learn and collaborate on animation. Animators of all levels are welcome.'
 widget2:
-  title: "Winter Break"
+  title: "Spring Quarter"
   url: /schedule/
   image: wKNF8bu.png?3
-  text: '<b> See you in Winter Quarter!</b> <br> We will resume virtual club activities soon. Check back in January for more information!'
+  text: '<b> We meet on Fridays 6pm over Zoom! </b> <br> Please see our Discord or newsletter for more information.'
 widget3:
   title: "Our Recent Work"
   url: /gallery/
@@ -36,6 +36,7 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
+
 
 callforaction:
   url: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PWCG9BKYRXGZN&lc=US&item_name=Animation%20Anteaters&item_number=AniAnt%20Club%20Fund&currency_code=USD&bn=PP%2dDonationsBF%3adonate%2520button_zpsxvnh45hr%2epng%2ehtml%3aNonHosted
